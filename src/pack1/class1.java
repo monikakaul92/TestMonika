@@ -5,7 +5,5 @@ public class class1 {
 		System.out.println("1");
 		System.out.println("1.1_added_new_chnages");
 		System.out.println("2_added_new_chnages");
-		
 	}
-	
 }
